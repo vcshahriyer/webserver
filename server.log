@@ -1,0 +1,230 @@
+ INFO: http server starting:8080:2790
+ INFO: SEND:index.html:1
+ INFO: SEND:scott.jpg:2
+SORRY: file extension type not supported:GET /favicon.ico
+SORRY: failed to open file:favicon.ico
+ INFO: SEND:favicon.ico:3
+SORRY: file extension type not supported:GET /favicon.ico
+SORRY: failed to open file:favicon.ico
+ INFO: SEND:favicon.ico:4
+ INFO: SEND:index.html:5
+ INFO: SEND:scott.jpg:6
+ INFO: SEND:index.html:7
+ INFO: http server starting:8000:3171
+ INFO: SEND:index.html:1
+ INFO: SEND:index.html:2
+SORRY: failed to read browser request:
+SORRY: Only simple GET operation supported:
+SORRY: file extension type not supported:
+SORRY: failed to open file:TYPE
+ INFO: SEND:TYPE:3
+ INFO: http server starting:8080:3250
+ INFO: SEND:index.html:1
+SORRY: failed to read browser request:
+SORRY: Only simple GET operation supported:
+SORRY: file extension type not supported:
+SORRY: failed to open file:TYPE
+ INFO: SEND:TYPE:2
+SORRY: failed to read browser request:
+SORRY: Only simple GET operation supported:
+SORRY: file extension type not supported:
+SORRY: failed to open file:1.0
+ INFO: SEND:1.0:3
+ INFO: http server starting:8080:3294
+ INFO: SEND:index.html:1
+SORRY: failed to read browser request:
+SORRY: Only simple GET operation supported:
+SORRY: file extension type not supported:
+SORRY: failed to open file:TYPE
+ INFO: SEND:TYPE:2
+SORRY: failed to read browser request:
+SORRY: Only simple GET operation supported:
+SORRY: file extension type not supported:
+SORRY: failed to open file:1.0
+ INFO: SEND:1.0:3
+ INFO: http server starting:8080:3341
+ERROR: system call:bind Errno=98 exiting pid=3341
+ INFO: http server starting:8888:3392
+ INFO: SEND:index.html:1
+ INFO: SEND:scott.jpg:2
+SORRY: file extension type not supported:GET /favicon.ico
+SORRY: failed to open file:favicon.ico
+ INFO: SEND:favicon.ico:3
+ INFO: http server starting:8888:3462
+ INFO: SEND:index.html:1
+ INFO: SEND:scott.jpg:2
+SORRY: file extension type not supported:GET /favicon.ico
+SORRY: failed to open file:favicon.ico
+ INFO: SEND:favicon.ico:3
+SORRY: file extension type not supported:GET /favicon.ico
+SORRY: failed to open file:favicon.ico
+ INFO: SEND:favicon.ico:4
+ INFO: SEND:index.html:5
+ INFO: SEND:scott.jpg:6
+ INFO: SEND:index.html:7
+ INFO: http server starting:8080:3695
+ INFO: SEND:index.html:1
+ INFO: SEND:scott.jpg:2
+SORRY: file extension type not supported:GET /favicon.ico
+SORRY: failed to open file:favicon.ico
+ INFO: SEND:favicon.ico:3
+SORRY: file extension type not supported:GET /favicon.ico
+SORRY: failed to open file:favicon.ico
+ INFO: SEND:favicon.ico:4
+ INFO: SEND:index.html:5
+ INFO: SEND:scott.jpg:6
+ INFO: SEND:page2.html:7
+ INFO: http server starting:8080:2305
+ INFO: SEND:index.html:1
+ INFO: SEND:scott.jpg:2
+SORRY: file extension type not supported:GET /favicon.ico
+SORRY: failed to open file:favicon.ico
+ INFO: SEND:favicon.ico:3
+SORRY: file extension type not supported:GET /favicon.ico
+SORRY: failed to open file:favicon.ico
+ INFO: SEND:favicon.ico:4
+SORRY: file extension type not supported:GET /favicon.ico
+SORRY: failed to open file:favicon.ico
+ INFO: SEND:favicon.ico:5
+ INFO: SEND:index.html:6
+ INFO: SEND:scott.jpg:7
+ INFO: http server starting:8080:2361
+ERROR: system call:bind Errno=98 exiting pid=2361
+ INFO: http server starting:8000:2394
+ INFO: SEND:index.html:1
+ INFO: SEND:scott.jpg:2
+SORRY: file extension type not supported:GET /favicon.ico
+SORRY: failed to open file:favicon.ico
+ INFO: SEND:favicon.ico:3
+SORRY: file extension type not supported:GET /favicon.ico
+SORRY: failed to open file:favicon.ico
+ INFO: SEND:favicon.ico:4
+ INFO: SEND:index.html:5
+ INFO: SEND:scott.jpg:6
+ INFO: SEND:index.html:7
+ INFO: SEND:scott.jpg:8
+SORRY: file extension type not supported:GET /favicon.ico
+SORRY: failed to open file:favicon.ico
+ INFO: SEND:favicon.ico:9
+ INFO: SEND:page2.html:10
+ INFO: SEND:page2.html:11
+ INFO: SEND:page2.html:12
+ INFO: SEND:index.html:13
+ INFO: SEND:scott.jpg:14
+ INFO: SEND:page2.html:15
+ INFO: http server starting:8080:4085
+ INFO: SEND:index.html:1
+ INFO: SEND:scott.jpg:2
+SORRY: file extension type not supported:GET /favicon.ico
+SORRY: failed to open file:favicon.ico
+ INFO: SEND:favicon.ico:3
+ INFO: SEND:page2.html:4
+SORRY: file extension type not supported:GET /favicon.ico
+SORRY: failed to open file:favicon.ico
+ INFO: SEND:favicon.ico:5
+ INFO: SEND:index.html:6
+ INFO: SEND:scott.jpg:7
+SORRY: file extension type not supported:GET /favicon.ico
+SORRY: failed to open file:favicon.ico
+ INFO: SEND:favicon.ico:8
+ INFO: SEND:page2.html:9
+SORRY: file extension type not supported:GET /favicon.ico
+SORRY: failed to open file:favicon.ico
+ INFO: SEND:favicon.ico:10
+ INFO: SEND:index.html:11
+ INFO: SEND:scott.jpg:12
+SORRY: file extension type not supported:GET /favicon.ico
+SORRY: failed to open file:favicon.ico
+ INFO: SEND:favicon.ico:13
+ INFO: SEND:index.html:14
+ INFO: SEND:scott.jpg:15
+ INFO: http server starting:8080:5036
+ INFO: SEND:index.html:1
+ INFO: SEND:scott.jpg:2
+SORRY: file extension type not supported:GET /favicon.ico
+SORRY: failed to open file:favicon.ico
+ INFO: SEND:favicon.ico:3
+ INFO: SEND:page2.html:4
+SORRY: file extension type not supported:GET /favicon.ico
+SORRY: failed to open file:favicon.ico
+ INFO: SEND:favicon.ico:5
+SORRY: file extension type not supported:GET /favicon.ico
+SORRY: failed to open file:favicon.ico
+ INFO: SEND:favicon.ico:6
+ INFO: SEND:index.html:7
+ INFO: SEND:scott.jpg:8
+SORRY: file extension type not supported:GET /favicon.ico
+SORRY: failed to open file:favicon.ico
+ INFO: SEND:favicon.ico:9
+ INFO: SEND:page2.html:10
+SORRY: file extension type not supported:GET /favicon.ico
+SORRY: failed to open file:favicon.ico
+ INFO: SEND:favicon.ico:11
+SORRY: file extension type not supported:GET /favicon.ico
+SORRY: failed to open file:favicon.ico
+ INFO: SEND:favicon.ico:12
+ INFO: SEND:page2.html:13
+SORRY: file extension type not supported:GET /favicon.ico
+SORRY: failed to open file:favicon.ico
+ INFO: SEND:favicon.ico:14
+ INFO: SEND:index.html:15
+ INFO: http server starting:8080:5328
+ERROR: system call:bind Errno=98 exiting pid=5328
+ INFO: http server starting:8080:5372
+ERROR: system call:bind Errno=98 exiting pid=5372
+ INFO: http server starting:8080:5444
+ INFO: SEND:index.html:1
+ INFO: SEND:scott.jpg:2
+SORRY: file extension type not supported:GET /favicon.ico
+SORRY: failed to open file:favicon.ico
+ INFO: SEND:favicon.ico:3
+ INFO: SEND:page2.html:4
+SORRY: file extension type not supported:GET /favicon.ico
+SORRY: failed to open file:favicon.ico
+ INFO: SEND:favicon.ico:5
+ INFO: SEND:index.html:6
+ INFO: SEND:scott.jpg:7
+SORRY: file extension type not supported:GET /favicon.ico
+SORRY: failed to open file:favicon.ico
+ INFO: SEND:favicon.ico:8
+ INFO: SEND:page2.html:9
+SORRY: file extension type not supported:GET /favicon.ico
+SORRY: failed to open file:favicon.ico
+ INFO: SEND:favicon.ico:10
+ INFO: SEND:index.html:11
+ INFO: SEND:scott.jpg:12
+SORRY: file extension type not supported:GET /favicon.ico
+SORRY: failed to open file:favicon.ico
+ INFO: SEND:favicon.ico:13
+ INFO: SEND:page2.html:14
+SORRY: file extension type not supported:GET /favicon.ico
+SORRY: failed to open file:favicon.ico
+ INFO: SEND:favicon.ico:15
+ INFO: http server starting:8080:5700
+ INFO: SEND:index.html:1
+ INFO: SEND:scott.jpg:2
+SORRY: file extension type not supported:GET /favicon.ico
+SORRY: failed to open file:favicon.ico
+ INFO: SEND:favicon.ico:3
+ INFO: SEND:page2.html:4
+SORRY: file extension type not supported:GET /favicon.ico
+SORRY: failed to open file:favicon.ico
+ INFO: SEND:favicon.ico:5
+ INFO: SEND:index.html:6
+ INFO: SEND:scott.jpg:7
+SORRY: file extension type not supported:GET /favicon.ico
+SORRY: failed to open file:favicon.ico
+ INFO: SEND:favicon.ico:8
+ INFO: SEND:page2.html:9
+SORRY: file extension type not supported:GET /favicon.ico
+SORRY: failed to open file:favicon.ico
+ INFO: SEND:favicon.ico:10
+ INFO: SEND:index.html:11
+ INFO: SEND:scott.jpg:12
+SORRY: file extension type not supported:GET /favicon.ico
+SORRY: failed to open file:favicon.ico
+ INFO: SEND:favicon.ico:13
+ INFO: SEND:page2.html:14
+SORRY: file extension type not supported:GET /favicon.ico
+SORRY: failed to open file:favicon.ico
+ INFO: SEND:favicon.ico:15
